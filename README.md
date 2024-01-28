@@ -1,2 +1,4 @@
-# Data-Science-Algorithms-from-Scratch
-This repo contains all Data science algorithms from Scratch
+# Deep Learning
+1. Logistic regression as neural network
+2. Shallow neural network
+3. Deep neural network
